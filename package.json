@@ -1,0 +1,15 @@
+{
+  "name": "creditcardmask",
+  "version": "1.0.0",
+  "description": "credit card mask",
+  "main": "maskcard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raul araujo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/Raul-Araujo/maskcreditcard.git"
+  }
+}
